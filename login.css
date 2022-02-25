@@ -1,0 +1,36 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+*{box-sizing: border-box;}
+    
+.login{
+    border: 3px black;
+    margin-top:10px;
+    margin-bottom:0px;
+    margin-right: 350px;
+    margin-left:350px;
+    position: absolute;
+    right:3%;
+    padding: 10px;
+    
+    
+    
+    background-color: rgb(78, 66, 66);
+}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+h1{
+    text-align:center;
+}
+.c1{
+    text-align:center;
+}

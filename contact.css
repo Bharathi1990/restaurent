@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(images/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact{
+    color: white;
+}
+.map{
+    border:3px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 300px;
+    height: 300px;
+    width:300px;
+}
